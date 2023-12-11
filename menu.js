@@ -175,3 +175,10 @@ window.addEventListener("DOMContentLoaded", function () {
       });
     })
   }
+
+  function something()
+  {
+    //some code...
+
+    
+  }
